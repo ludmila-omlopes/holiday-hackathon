@@ -4,7 +4,7 @@ Team Members: Ludmila Lopes (https://hey.xyz/u/definn)
 
 Source Code Link: https://github.com/ludmila-omlopes/lens-agora
 
-Preview Link: 
+Preview Link: https://lens-agora.vercel.app/
 
 Demo Video/Slide Deck Link:
 
@@ -43,3 +43,15 @@ Lens Agora is a revolutionary marketplace built on the Lens Network, combining t
     Lens Protocol functionalities like Groups, Apps, Feeds, and Accounts are represented in this project as mockups. Many of these features are not yet available in their full form to meet my intentions for Lens Agora. However, these mockups faithfully represent these functionalities based on the Lens Documentation.
 
 ## Screenshots
+
+![capa](https://github.com/user-attachments/assets/aae899c1-f87d-44c3-9bc6-38a646ac3d28)
+![screen1](https://github.com/user-attachments/assets/b20164eb-0c67-4770-95e9-34de4ea01281)
+![screen2](https://github.com/user-attachments/assets/08072270-c2a7-4960-956b-9c4390f74833)
+
+![screen3](https://github.com/user-attachments/assets/aa5f500f-2cc8-4342-9de1-7c088c5a2b8c)
+
+![screen4](https://github.com/user-attachments/assets/5ca366aa-b3e9-4e26-bec2-62668f57ba49)
+
+![screen6](https://github.com/user-attachments/assets/06a0ff1c-7f44-4cbe-80a4-c0cf6144de43)
+![screen7](https://github.com/user-attachments/assets/d30d220a-ca7b-41d5-9e6c-0431b26bc467)
+
