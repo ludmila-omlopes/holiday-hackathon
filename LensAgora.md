@@ -6,7 +6,7 @@ Source Code Link: https://github.com/ludmila-omlopes/lens-agora
 
 Preview Link: https://lens-agora.vercel.app/
 
-Demo Video/Slide Deck Link:
+Demo Video/Slide Deck Link: https://www.canva.com/design/DAGbg_qbtQI/Ly1MbP6claATCqIVKxhfSA/view?utm_content=DAGbg_qbtQI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h25ae282b99
 
 ## Project Description
 Lens Agora is a revolutionary marketplace built on the Lens Network, combining the power of social interaction with a seamless NFT trading experience. This platform is designed to empower creators and collectors by providing tools and features that set it apart from traditional marketplaces.
