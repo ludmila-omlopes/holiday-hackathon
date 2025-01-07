@@ -44,8 +44,15 @@ Lens Agora is a revolutionary marketplace built on the Lens Network, combining t
 
 ## Screenshots
 
-![capa](https://github.com/user-attachments/assets/aae899c1-f87d-44c3-9bc6-38a646ac3d28)
-![screen1](https://github.com/user-attachments/assets/b20164eb-0c67-4770-95e9-34de4ea01281)
+![image](https://github.com/user-attachments/assets/8769c993-1197-47de-a8da-eddb6e89c4e8)
+![image](https://github.com/user-attachments/assets/8f8babc8-6923-442f-a36c-c2e3100c582b)
+
+![image](https://github.com/user-attachments/assets/d2a2a569-363f-4acd-9e21-557ef6cdc7f2)
+![image](https://github.com/user-attachments/assets/3734b498-7198-450e-b543-8cf711163865)
+![image](https://github.com/user-attachments/assets/d41d6a6f-5aa2-450c-a762-e425ebf93faf)
+
+![image](https://github.com/user-attachments/assets/26812152-a7a7-4ac6-87e0-7610b5c24758)
+
 ![screen2](https://github.com/user-attachments/assets/08072270-c2a7-4960-956b-9c4390f74833)
 
 ![screen3](https://github.com/user-attachments/assets/aa5f500f-2cc8-4342-9de1-7c088c5a2b8c)
